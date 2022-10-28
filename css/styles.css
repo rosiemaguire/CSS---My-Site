@@ -2,7 +2,7 @@
 a {
   color: #11999E;
   font-family: "Montserrat", sans-serif;
-  margin: 10px 20px;
+  margin: 0.75% 1%;
   text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ h1 {
   color:#66BFBF;
   font-family: "Sacramento", cursive;
   font-size: 562.5%;
-  margin: 50px auto 0 auto;
+  margin: 3% auto 0 auto;
 }
 
 h2 {
@@ -32,20 +32,20 @@ h2 {
   font-size: 2.5rem;
   font-weight: normal;
   margin-block: 0;
-  padding-bottom: 10px;
+  padding-bottom: 0.6%;
 
 }
 
 h3 {
   color: #11999E;
   font-family: "Montserrat", sans-serif;
-  margin: 10px auto 0 auto;
+  margin: 0.6% auto 0 auto;
 }
 
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
-  margin: 100px auto;
+  margin: 6.25rem auto;
   width: 5%;
 
 }
@@ -61,14 +61,14 @@ p {
 }
 
 .bottom-cloud {
-  left: 300px;
+  left: 19%;
   position: absolute;
 }
 
 .lefties {
   float:left;
-  margin-right: 30px;
-  padding-bottom: 30px;
+  margin-right: 5%;
+  padding-bottom: 5%;
 }
 
 .moss {
@@ -82,8 +82,8 @@ p {
 }
 
 .profile-pic {
-  border-radius: 100px;
-  margin:20px;
+  border-radius: 100%;
+  margin: 1%;
 }
 
 .python {
@@ -92,14 +92,14 @@ p {
 
 .righties {
   float:right;
-  margin-left: 30px;
-  padding-bottom: 30px;
+  margin-left: 5%;
+  padding-bottom: 5%;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 18.75rem;
+  top: 2.5rem;
 }
 
 
@@ -107,7 +107,7 @@ p {
 .bottom-container {
   background-color: #a6e3e9;
   display: inline-block;
-  padding: 50px 0 16px;
+  padding: 3.124rem 0 1rem;
   vertical-align: middle;
   width: 100%;
 }
@@ -145,18 +145,18 @@ p {
 
 .contact-me {
   background-color: #beebe9;
-  padding: 100px 0 100px;
+  padding: 6.25rem 0 6.25rem;
 }
 
 .contact-message {
-  margin: 40px auto;
+  margin: 2.5rem auto;
   width: 40%;
 }
 
 .copyright {
   color:#EAF6F6;
   font-size: 0.75rem;
-  padding: 20px 0 0;
+  padding: 1rem 0 0;
 }
 
 /*.footer-link {
