@@ -61,8 +61,10 @@ p {
 }
 
 .bottom-cloud {
+  height: auto;
   left: 19%;
   position: absolute;
+  width: auto;
 }
 
 .lefties {
@@ -97,9 +99,11 @@ p {
 }
 
 .top-cloud {
+  height: auto;
   position: absolute;
-  right: 18.75rem;
+  right: 19%;
   top: 2.5rem;
+  width: auto;
 }
 
 
