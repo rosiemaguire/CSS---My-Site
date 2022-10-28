@@ -2,7 +2,7 @@
 a {
   color: #11999E;
   font-family: "Montserrat", sans-serif;
-  margin: 0.75% 1%;
+  margin: 10px 20px;
   text-decoration: none;
 }
 
@@ -24,14 +24,14 @@ Instead use rem - this ignores parent settings*/
 h1 {
   color:#66BFBF;
   font-family: "Sacramento", cursive;
-  font-size: 562.5%;
+  font-size: 5.625rem;
   margin: 3% auto 0 auto;
 }
 
 h2 {
   color: #66BFBF;
   font-family: "Montserrat", sans-serif;
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: normal;
   margin-block: 0;
   padding-bottom: 0.6%;
@@ -41,15 +41,14 @@ h2 {
 h3 {
   color: #11999E;
   font-family: "Montserrat", sans-serif;
-  margin: 0.6% auto 0 auto;
+  margin: 20px auto 0 auto;
 }
 
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
-  margin: 6.25rem auto;
+  margin: 100px auto;
   width: 5%;
-
 }
 
 p {
@@ -60,7 +59,7 @@ p {
 /*******CLASS SELECTORS - IMAGES*******/
 .b99 {
   height: auto;
-  max-width: 100%
+  max-width: 100%;
   width: auto;
 }
 
@@ -91,8 +90,10 @@ p {
 
 .profile-pic {
   border-radius: 100%;
+  /* height: auto; */
   margin: 1%;
-  width: auto;
+  /* max-width: 25%; */
+  /* width: auto; */
 }
 
 .python {
@@ -120,7 +121,7 @@ p {
 .bottom-container {
   background-color: #a6e3e9;
   display: inline-block;
-  padding: 3.124rem 0 1rem;
+  padding: 20px 0 10px;
   vertical-align: middle;
   width: 100%;
 }
@@ -158,7 +159,7 @@ p {
 
 .contact-me {
   background-color: #beebe9;
-  padding: 6.25rem 0 6.25rem;
+  padding: 40px 0 40px;
 }
 
 .contact-message {
@@ -169,7 +170,7 @@ p {
 .copyright {
   color:#EAF6F6;
   font-size: 0.75rem;
-  padding: 1rem 0 0;
+  padding: 20px 0 0;
 }
 
 /*.footer-link {
