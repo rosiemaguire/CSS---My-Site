@@ -75,9 +75,11 @@ p {
   width: 100%;
 }
 
-/*.mountain {
-  position: absolute;
-}*/
+.mountain {
+  height:auto;
+  max-width: 100%;
+  width:auto;
+}
 
 .profile-pic {
   border-radius: 100px;
