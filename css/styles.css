@@ -57,7 +57,9 @@ p {
 
 /*******CLASS SELECTORS - IMAGES*******/
 .b99 {
-  width: 50%;
+  height: auto;
+  max-width: 100%
+  width: auto;
 }
 
 .bottom-cloud {
@@ -74,7 +76,9 @@ p {
 }
 
 .moss {
-  width: 100%;
+  height: auto;
+  max-width: 100%
+  width: auto;
 }
 
 .mountain {
@@ -86,10 +90,13 @@ p {
 .profile-pic {
   border-radius: 100%;
   margin: 1%;
+  width: 15%;
 }
 
 .python {
-  width: 100%;
+  height: auto;
+  max-width: 100%;
+  width: auto;
 }
 
 .righties {
