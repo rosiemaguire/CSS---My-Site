@@ -13,8 +13,10 @@ a:hover {
 body {
   color:#40514E;
   font-family: "Merriweather", serif;
+  height: auto;
   margin: 0;
   text-align: center;
+  width: auto;
 }
 /* 100% = 16px = 1em 
 Font size is inherited from parent if it's a dynamic size- so it's already 2em before additional font size settings are applied in h1 
@@ -90,7 +92,7 @@ p {
 .profile-pic {
   border-radius: 100%;
   margin: 1%;
-  width: 15%;
+  width: auto;
 }
 
 .python {
